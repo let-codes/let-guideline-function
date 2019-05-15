@@ -1,0 +1,1 @@
+let product = problem => solution
